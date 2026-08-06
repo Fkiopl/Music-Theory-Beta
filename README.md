@@ -1,3 +1,4 @@
+
 # 🎵 Music Theory
 
 A fast-paced top-down survival game built with **Unity** and **C#**, where music becomes your weapon.
@@ -8,7 +9,9 @@ Fight against endless waves of enemies using a spinning musical note while survi
 
 ## 📸 Preview
 
-
+<img width="235" height="184" alt="Screenshot 2026-08-06 233832" src="https://github.com/user-attachments/assets/5cfbc8f0-44bd-4e89-a0f9-706b7b82f403" />
+<img width="955" height="635" alt="Screenshot 2026-08-06 233817" src="https://github.com/user-attachments/assets/17a86669-9b7b-4192-938c-10321a11b9bb" />
+<img width="1093" height="551" alt="Screenshot 2026-08-06 233753" src="https://github.com/user-attachments/assets/b1a61e75-1c62-49ee-b1bd-1d8762df17c0" />
 
 
 
